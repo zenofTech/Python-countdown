@@ -20,5 +20,5 @@ cd python-countdown
 💖 If you like this project, give it a ⭐ and share it with friends!
 
 <p align="center">
-<a href="https://ko-fi.com/zenoftech"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi"></a>
-</p> :heart:
+<a href="https://ko-fi.com/zenoftech"> <img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20coffee-brightgreen?style=for-the-badge&logo=Ko-fi"></a>:heart:
+</p> 
